@@ -6,7 +6,7 @@ El contenido de este manual es abierto y trataremos de que esté siempre lo más
 
 * [Introducción](chapter1.md)
 * [Rutas y parámetros](chapter2.md)
-* [Authorización](chapter3.md)
+* [Autorización](chapter3.md)
 * [Trabajando con datos ](chapter4.md)
 
 Cada capítulo lleva aparejado el código completo relativo a la explicación del mismo. Puede encontrarlos dentro de la carpeta Samples en este mismo repositorio.
