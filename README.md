@@ -7,11 +7,13 @@ El contenido de este manual es abierto y trataremos de que esté siempre lo más
 * [Introducción](chapter1.md)
 * [Rutas y parámetros](chapter2.md)
 * [Authorización](chapter3.md)
-* [Trabajando con ](chapter4.md)
+* [Trabajando con datos ](chapter4.md)
+
+Cada capítulo lleva aparejado el código completo relativo a la explicación del mismo. Puede encontrarlos dentro de la carpeta Samples en este mismo repositorio.
 
 ## Agradecimientos
 
 A todas las personas que han contribuido a la escritura y revision de este manual, en especial a:
 
-1. Unai Zorrilla  Castro 
+1. Unai Zorrilla  Castro
 2. Luis Ruiz Pavon
