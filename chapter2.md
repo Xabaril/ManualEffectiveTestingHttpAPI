@@ -117,7 +117,7 @@ Ahora en nuestros tests, eliminaremos las *magic strings* en favor del uso de es
                 message.Content = new StringContent(content,Encoding.UTF8,"application/json");
 
             }).PostAsync();
-
+ 
         response.EnsureSuccessStatusCode();
     }
 ```
@@ -155,7 +155,7 @@ Esta librería nos aporta un nuevo método de extensión para nuestro *TestServe
 
 Fíjese como se usa el tipo anónimo para especificar aquellos *tokens* que no pueden ser obtenidos de la propia definición de la acción llamada en nuestro controlador.
 
-#Conclusiones
+# Conclusiones
 
 En este capítulo hemos visto como enfrentarnos al manejo de las diferentes rutas de nuestro controladores en los tests de nuestras HTTP API para simplificar nuestros tests e intentar luchar contra diferentes *code smell* que nos pueden aparecer.
 
