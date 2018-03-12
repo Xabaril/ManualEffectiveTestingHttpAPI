@@ -229,7 +229,7 @@ Ahora, solamente tenemos que establecer para cada test cuales son las claims con
     }
 ```
 
-#Conclusiones
+# Conclusiones
 
 En este capítulo hemos visto como enfrentarnos al manejo de de los mecanismos de authorización en nuestras HTTP API de una forma sencilla con el uso de *TestServer* y *Acheve.TestHost*.
 
