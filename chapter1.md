@@ -1,8 +1,5 @@
 
-
-
-
-# Introducción
+# Introducción a TestServer
 
 Bueno, empecemos por el principio, que consiste simplemente en crear nuestro proyecto inicial, da igual que sea en Visual Studio, Code o con la CLI de .NET. En este paso ya tenemos que tomar alguna decisión importante para todo el ciclo de desarrollo que sigue. Si nos fijamos en las diferentes plantillas que tenemos a nuestra disposicion podemos ver como siempre se sugiere crear nuestros proyectos juntando tanto la propia definición de nuestro HTTP API junto a nuestro host.
 
