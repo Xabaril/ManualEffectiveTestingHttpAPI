@@ -303,3 +303,5 @@ Now we move on to the next step and make all our tests share **TestServer**. As 
 ## Conclusions
 
 In this chapter we have seen the first steps to perform effective "Testing of our HTTP APIs". Throughout the following chapters we will dig deeper into different elements such as working with security, data and URLs management. You can grap the chapter code from "samples/Chaper1" folder;
+
+> [Continuar la lectura](./Chapter2.md)

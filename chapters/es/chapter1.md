@@ -302,3 +302,5 @@ Ahora ya podemos hacer que nuestros tests compartan nuestro **TestServer**, lo q
 ## Conclusiones
 
 En este primer capítulo hemos visto los primeros pasos para realizar "Testing efectivo de nuestros HTTP APIs". A lo largo de los siguientes capítulos iremos viendo como profundizar en diferentes aspectos como trabajar con seguridad, datos y el manejo de las URLs. Puedes encontrar el código utilizado en este capítulo en la carpeta de "samples/Chapter1".
+
+> [Continuar la lectura](./Chapter2.md)
