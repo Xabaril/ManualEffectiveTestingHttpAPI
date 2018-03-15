@@ -159,3 +159,4 @@ Fíjese como se usa el tipo anónimo para especificar aquellos *tokens* que no p
 
 En este capítulo hemos visto como enfrentarnos al manejo de las diferentes rutas de nuestro controladores en los tests de nuestras HTTP API para simplificar nuestros tests e intentar luchar contra diferentes *code smell* que nos pueden aparecer.
 
+> [Continuar la lectura](./chapter3.md)
