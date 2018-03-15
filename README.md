@@ -15,10 +15,11 @@ Hasta hace relativamente poco, ejecutar estas pruebas implicaba un cierto trabaj
 El contenido de este manual es abierto y trataremos de que esté siempre lo más actualizado posible. Algo que por supuesto no siempre es sencillo por los ciclos de entrega de nuevas características que tenemos en **.NET Core**. En principio, nos basaremos en **.NET Core 2.X**, en concreto con la versión **2.0**, la última versión release cuando este manual se estaba escribiendo.
 
 ## Índice
-* [Introducción a TestServer](chapters/es/chapter1.md)
-* [Rutas y parámetros](chapters/es/chapter2.md)
-* [Autorización](chapters/es/chapter3.md)
-* [Trabajando con datos ](chapters/es/chapter4.md)
+
+1. [Introducción a TestServer](chapters/es/chapter1.md)
+2. [Rutas y parámetros](chapters/es/chapter2.md)
+3. [Autorización](chapters/es/chapter3.md)
+4. [Trabajando con datos](chapters/es/chapter4.md)
 
 Cada capítulo lleva asociado el código relativo a la explicación del mismo. Puede encontrarlos dentro de la carpeta **samples**.
 

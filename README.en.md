@@ -15,10 +15,11 @@ Until recently, running these tests involved some work to make them be part of t
 The content of this manual is open and we will try to keep it as up-to-date as possible. Something that of course is not always easy for the delivery cycles of new features that we have in **.NET Core** project. In principle, we will be based on **.NET Core 2.X** specifically version **2.0**, the latest released version when this manual was being written.
 
 ## Table of Contents
-* [Introduction](chapters/en/chapter1.md)
-* [Routes and parameters](chapters/en/chapter2.md)
-* [Authorization](chapters/en/chapter3.md)
-* [Working with data](chapters/en/chapter4.md)
+
+1. [Introduction to TestServer](chapters/en/chapter1.md)
+2. [Routes and parameters](chapters/en/chapter2.md)
+3. [Authorization](chapters/en/chapter3.md)
+4. [Working with data](chapters/en/chapter4.md)
 
 Each **chapter** has the **code** associated with the explanation of it. You can find them in the **samples** folder. 
 
