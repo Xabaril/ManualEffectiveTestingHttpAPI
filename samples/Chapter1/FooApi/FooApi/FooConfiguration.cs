@@ -15,6 +15,6 @@ namespace FooApi
 
         public static void Configure(IApplicationBuilder app, Func<IApplicationBuilder, IApplicationBuilder> configureHost) =>
             configureHost(app)
-            .UseMvc();
+                .UseMvc();
     }
 }

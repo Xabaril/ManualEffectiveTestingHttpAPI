@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 namespace FooApi.Controllers
 {
     [Route("api/v{version:apiVersion}/[controller]")]
-    public class FooController
-        :Controller
+    public class FooController : Controller
     {
         private readonly FooDbContext context;
 

@@ -24,8 +24,7 @@ namespace FunctionalTests.Seedwork
     }
 
     [CollectionDefinition("Foo")]
-    public class FooFixtureCollection
-        : ICollectionFixture<FooFixture>
+    public class FooFixtureCollection : ICollectionFixture<FooFixture>
     {
     }
 

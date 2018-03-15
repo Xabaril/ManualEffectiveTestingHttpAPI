@@ -5,8 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace FooApi.Controllers
 {
     [Route("api/v{version:apiVersion}/[controller]")]
-    public class FooController
-        :Controller
+    public class FooController : Controller
     {
         [HttpGet()]
         [Authorize("GetPolicy")]

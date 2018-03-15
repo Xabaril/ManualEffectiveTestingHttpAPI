@@ -4,8 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace FooApi.Controllers
 {
     [Route("api/[controller]")]
-    public class FooController
-        :Controller
+    public class FooController : Controller
     {
         [HttpGet("")]
         public IActionResult Get(int id)
